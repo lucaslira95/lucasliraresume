@@ -1,2 +1,2 @@
 ## Demo:
-https://lucasliraresume.tk
+https://lucasliraresume.netlify.app
